@@ -57,6 +57,19 @@ export function Footer() {
             System online
           </p>
         </div>
+
+        <p className="mt-6 text-[0.65rem] uppercase tracking-[0.2em] text-muted-foreground/70">
+          Architectural imagery via{' '}
+          <a
+            href="https://unsplash.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="underline decoration-border underline-offset-4 transition-colors duration-300 hover:text-accent"
+          >
+            Unsplash
+          </a>{' '}
+          — illustrative only
+        </p>
       </div>
     </footer>
   );
