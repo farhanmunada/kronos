@@ -10,3 +10,6 @@ dist-ssr
 
 .DS_Store
 *.log
+
+# Scratch dirs for local visual verification (screenshots, CDP probes)
+.tmp-*/

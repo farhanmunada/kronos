@@ -504,7 +504,7 @@ vite build  # outputs dist/
 - [ ] Test form submission
 
 **Phase 4: Polish & Assets (Day 5)**
-- [ ] Replace placeholder images with AI renders (Midjourney)
+- [x] Replace placeholder images with real stock photography (Unsplash — see `src/data/media.ts`)
 - [ ] Fine-tune spacing, hover states, transitions
 - [ ] Accessibility audit (contrast, focus, semantic HTML)
 - [ ] Responsive test (375px, 768px, 1440px)
